@@ -1,7 +1,17 @@
-### Hi there 👋
+### :sweat_smile: This GitHub is currently under renovation!
+
+* 💬 Ask me about ...
+* 📫 How to reach me: dmaragones@outlook.com
+
+![linkedin](https://img.shields.io/badge/linkedin-here!-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdarren-miguel-aragones-1aa065195%2F
+)
 
 <!--
+
+Maybe I could add a bot which cycles through different quotes and emojis for this README.md?
 **ara-gone/ara-gone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 Here are some ideas to get you started:
 
