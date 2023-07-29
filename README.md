@@ -1,7 +1,7 @@
 ### :sweat_smile: This GitHub is currently under renovation!
 
-* 💬 Ask me about ...
-* 📫 How to reach me: dmaragones@outlook.com
+* 💬 Ask me about: nothing atm lol
+* 📫 How to reach me: all unprofessional queries straight to *dmaragones@outlook.com*
 
 ![linkedin](https://img.shields.io/badge/linkedin-here!-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdarren-miguel-aragones-1aa065195%2F
 )
