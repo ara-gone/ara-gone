@@ -1,4 +1,4 @@
-### :sweat_smile: This GitHub is currently under renovation!
+### :sweat_smile: This GitHub profile is currently under renovation!
 
 * 💬 Ask me about: nothing atm lol
 * 📫 How to reach me: all unprofessional queries straight to *dmaragones@outlook.com*
